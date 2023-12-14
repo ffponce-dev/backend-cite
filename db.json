@@ -292,69 +292,6 @@
         "duracion": 4,
         "idCategoria": 1,
         "descTramite": "Matriculaciones de vehículos"
-    },
-    {
-        "idCentro": 84,
-        "idTramite": 249,
-        "idCalendario": 1060,
-        "idHorario": 1040,
-        "duracion": 2,
-        "idCategoria": 1,
-        "descTramite": "Cambio de titularidad de vehículos"
-    },
-    {
-        "idCentro": 84,
-        "idTramite": 250,
-        "idCalendario": 1061,
-        "idHorario": 1041,
-        "duracion": 3,
-        "idCategoria": 1,
-        "descTramite": "Rematriculación de vehículo"
-    },
-    {
-        "idCentro": 84,
-        "idTramite": 251,
-        "idCalendario": 1062,
-        "idHorario": 1042,
-        "duracion": 3,
-        "idCategoria": 1,
-        "descTramite": "Matriculación temporal (placas verdes)"
-    },
-    {
-        "idCentro": 84,
-        "idTramite": 252,
-        "idCalendario": 1063,
-        "idHorario": 1043,
-        "duracion": 2,
-        "idCategoria": 1,
-        "descTramite": "Duplicado y renovación de la documentación de vehículos"
-    },
-    {
-        "idCentro": 84,
-        "idTramite": 253,
-        "idCalendario": 1066,
-        "idHorario": 1046,
-        "duracion": 2,
-        "idCategoria": 1,
-        "descTramite": "Información de vehículos"
-    },
-    {
-        "idCentro": 84,
-        "idTramite": 254,
-        "idCalendario": 1067,
-        "idHorario": 1047,
-        "duracion": 2,
-        "idCategoria": 1,
-        "descTramite": "Cambio de domicilio fiscal de vehículos"
-    },
-    {
-        "idCentro": 84,
-        "idTramite": 264,
-        "idCalendario": 1145,
-        "idHorario": 1125,
-        "duracion": 3,
-        "idCategoria": 2,
-        "descTramite": "Canjes de Fuerzas y Cuerpos de Seguridad Españoles (FFCCS)"
     }
   ],
   "profile": {
