@@ -40,16 +40,321 @@
 			"idCentroNCIT":990
 	}
   ],
-  "comments": [
+  "tramites": [
     {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+        "idCentro": 84,
+        "idTramite": 1,
+        "idCalendario": -1,
+        "idHorario": -1,
+        "duracion": 1,
+        "idCategoria": 3,
+        "descTramite": "Presentación alegaciones y recursos a multas"
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+        "idCentro": 84,
+        "idTramite": 2,
+        "idCalendario": -1,
+        "idHorario": -1,
+        "duracion": 2,
+        "idCategoria": 2,
+        "descTramite": "Permiso internacional"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 3,
+        "idCalendario": -1,
+        "idHorario": -1,
+        "duracion": 2,
+        "idCategoria": 1,
+        "descTramite": "Alta de vehículo en baja temporal"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 4,
+        "idCalendario": -1,
+        "idHorario": -1,
+        "duracion": 1,
+        "idCategoria": 3,
+        "descTramite": "Pago de multas"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 5,
+        "idCalendario": -1,
+        "idHorario": -1,
+        "duracion": 2,
+        "idCategoria": 4,
+        "descTramite": "Solicitud de devolución del pago de tasas"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 6,
+        "idCalendario": -1,
+        "idHorario": -1,
+        "duracion": 1,
+        "idCategoria": 2,
+        "descTramite": "Consulta de puntos"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 7,
+        "idCalendario": -1,
+        "idHorario": -1,
+        "duracion": 2,
+        "idCategoria": 3,
+        "descTramite": "Solicitud devolución importe multas"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 8,
+        "idCalendario": -1,
+        "idHorario": -1,
+        "duracion": 2,
+        "idCategoria": 4,
+        "descTramite": "Presentación de escritos, quejas y sugerencias"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 104,
+        "idCalendario": 1051,
+        "idHorario": 1031,
+        "duracion": 1,
+        "idCategoria": 3,
+        "descTramite": "Identificación de conductor que conducía vehículo"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 105,
+        "idCalendario": 1052,
+        "idHorario": 1032,
+        "duracion": 2,
+        "idCategoria": 3,
+        "descTramite": "Consulta multas"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 106,
+        "idCalendario": 1053,
+        "idHorario": 1033,
+        "duracion": 3,
+        "idCategoria": 2,
+        "descTramite": "Solicitud certificado de puntos"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 107,
+        "idCalendario": 345,
+        "idHorario": 325,
+        "duracion": 2,
+        "idCategoria": 4,
+        "descTramite": "Autorizaciones de representación para trámites a través de REA "
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 108,
+        "idCalendario": 1054,
+        "idHorario": 1034,
+        "duracion": 2,
+        "idCategoria": 1,
+        "descTramite": "Comunicación del conductor habitual"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 124,
+        "idCalendario": 1064,
+        "idHorario": 1044,
+        "duracion": 2,
+        "idCategoria": 2,
+        "descTramite": "Cursos de recuperación de puntos"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 125,
+        "idCalendario": 1065,
+        "idHorario": 1045,
+        "duracion": 3,
+        "idCategoria": 2,
+        "descTramite": "Solicitud de examen a prueba de aptitud"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 126,
+        "idCalendario": 346,
+        "idHorario": 326,
+        "duracion": 1,
+        "idCategoria": 2,
+        "descTramite": "Anulación de citación a examen"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 127,
+        "idCalendario": 1068,
+        "idHorario": 1048,
+        "duracion": 2,
+        "idCategoria": 2,
+        "descTramite": "Estado de la tramitación del permiso de conducir"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 144,
+        "idCalendario": 1045,
+        "idHorario": 1025,
+        "duracion": 3,
+        "idCategoria": 2,
+        "descTramite": "Renovación del permiso de conducir"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 145,
+        "idCalendario": 1046,
+        "idHorario": 1026,
+        "duracion": 2,
+        "idCategoria": 2,
+        "descTramite": "Duplicado de permisos de conducir por deterioro, perdida, robo o cambio de datos"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 146,
+        "idCalendario": 1047,
+        "idHorario": 1027,
+        "duracion": 3,
+        "idCategoria": 2,
+        "descTramite": "Canje de permisos"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 147,
+        "idCalendario": 1048,
+        "idHorario": 1028,
+        "duracion": 2,
+        "idCategoria": 2,
+        "descTramite": "Permiso para mercancías peligrosas"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 224,
+        "idCalendario": 1049,
+        "idHorario": 1029,
+        "duracion": 1,
+        "idCategoria": 2,
+        "descTramite": "Cambio de dirección a efectos de notificaciones"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 225,
+        "idCalendario": 1050,
+        "idHorario": 1030,
+        "duracion": 2,
+        "idCategoria": 1,
+        "descTramite": "Baja temporal y prórroga de baja de vehículos"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 244,
+        "idCalendario": 1055,
+        "idHorario": 1035,
+        "duracion": 2,
+        "idCategoria": 1,
+        "descTramite": "Notificación de venta de vehículos"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 245,
+        "idCalendario": 1056,
+        "idHorario": 1036,
+        "duracion": 2,
+        "idCategoria": 1,
+        "descTramite": "Baja definitiva ordinaria y de vehículos históricos"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 246,
+        "idCalendario": 1057,
+        "idHorario": 1037,
+        "duracion": 2,
+        "idCategoria": 1,
+        "descTramite": "Baja definitiva por traslado a otro país"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 247,
+        "idCalendario": 1058,
+        "idHorario": 1038,
+        "duracion": 3,
+        "idCategoria": 1,
+        "descTramite": "Rehabilitación de vehículo de baja definitiva"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 248,
+        "idCalendario": 1059,
+        "idHorario": 1039,
+        "duracion": 4,
+        "idCategoria": 1,
+        "descTramite": "Matriculaciones de vehículos"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 249,
+        "idCalendario": 1060,
+        "idHorario": 1040,
+        "duracion": 2,
+        "idCategoria": 1,
+        "descTramite": "Cambio de titularidad de vehículos"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 250,
+        "idCalendario": 1061,
+        "idHorario": 1041,
+        "duracion": 3,
+        "idCategoria": 1,
+        "descTramite": "Rematriculación de vehículo"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 251,
+        "idCalendario": 1062,
+        "idHorario": 1042,
+        "duracion": 3,
+        "idCategoria": 1,
+        "descTramite": "Matriculación temporal (placas verdes)"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 252,
+        "idCalendario": 1063,
+        "idHorario": 1043,
+        "duracion": 2,
+        "idCategoria": 1,
+        "descTramite": "Duplicado y renovación de la documentación de vehículos"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 253,
+        "idCalendario": 1066,
+        "idHorario": 1046,
+        "duracion": 2,
+        "idCategoria": 1,
+        "descTramite": "Información de vehículos"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 254,
+        "idCalendario": 1067,
+        "idHorario": 1047,
+        "duracion": 2,
+        "idCategoria": 1,
+        "descTramite": "Cambio de domicilio fiscal de vehículos"
+    },
+    {
+        "idCentro": 84,
+        "idTramite": 264,
+        "idCalendario": 1145,
+        "idHorario": 1125,
+        "duracion": 3,
+        "idCategoria": 2,
+        "descTramite": "Canjes de Fuerzas y Cuerpos de Seguridad Españoles (FFCCS)"
     }
   ],
   "profile": {
