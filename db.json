@@ -1,17 +1,44 @@
 {
-  "posts": [
+  "centro": [
     {
-      "id": 1,
-      "title": "Post 1"
-    },
+		"idCentro":84,
+		"nombre":"Jefatura Provincial de Tráfico de Almería",
+		"observaciones":"<p>De lunes a viernes de 09:00 a 14:00.&nbsp;</p><p>Horario de atención a mayores de 65 años de 9 a 11 horas.</p><p>No se realizarán exámenes de conducción en las siguientes fechas: 2 y 6 de enero; 27 y 28 de febrero; 6 y 7 de abril; 1 de mayo; el 7 al 25 de agosto; 12 y 13 de octubre; 1 de noviembre; 6, 7, 8, 25, 26, 27, 28 y 29 de diciembre.</p><p>La consulta de sanciones y cobro de multas no requiere cita previa. Igualmente, las consultas en materia de exámenes se atienden de 12:30 a13:30 sin cita previa.</p><p><br></p>",
+		"xsnEsActiva":true,
+		"idProvincia":4,
+		"codJefaturaLdap":"040",
+		"ubicaciones":[],
+		"horario":{"idHorario":1},
+		"codigoIneProvincia":"04",
+		"idCalendario":1,
+		"imagen":"",
+		"descripcionHorario":"Lunes, martes y miércoles de 08:30 a 14:30. Jueves de 8,30 a 14,30h y de 15,30 a 17,30h.  Esta Jefatura no abre sus oficinas el 24 y el 31 de diciembre."
+	},
     {
-      "id": 2,
-      "title": "Post 2"
-    },
+		"idCentro":445,
+		"nombre":"OFI PRUEBAS",
+		"observaciones":"<p>Oficina de Pruebas</p>",
+		"xsnEsActiva":true,"idProvincia":2,
+		"codJefaturaLdap":"20",
+		"ubicaciones":[],
+		"horario":{"idHorario":991},
+		"codigoIneProvincia":"20",
+		"idCalendario":1011,
+		"descripcionHorario":"Campo de texto para especificar info del horario en la OFI PRUEBAS"
+	},
     {
-      "id": 3,
-      "title": "Post 3"
-    }
+			"idCentro":465,
+			"nombre":"Jefatura Provincial de Tráfico de Burgos",
+			"xsnEsActiva":true,
+			"idProvincia":9,
+			"codJefaturaLdap":"90",
+			"ubicaciones":[],
+			"horario":{"idHorario":1005},
+			"codigoIneProvincia":"90",
+			"idCalendario":1025,
+			"descripcionHorario":"Lunes, martes y miércoles de 08:30 a 14:30. Jueves de 8,30 a 14,30h y de 15,30 a 17,30h.  Esta Jefatura no abre sus oficinas el 24 y el 31 de diciembre.",
+			"idCentroNCIT":990
+	}
   ],
   "comments": [
     {
