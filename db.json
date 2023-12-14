@@ -1,1 +1,16 @@
-asdfassadf
+[
+  {"idCentro":84,
+    "nombre":"Jefatura Provincial de Tráfico de Almería",
+    "observaciones":"",
+    "xsnEsActiva":true,
+    "idProvincia":4,
+    "codJefaturaLdap":"040",
+    "ubicaciones":[],
+    "horario":{"idHorario":1},
+    "codigoIneProvincia":"04",
+    "idCalendario":1,
+    "imagen":"",
+    "descripcionHorario":"Lunes, martes y miércoles de 08:30 a 14:30. Jueves de 8,30 a 14,30h y de 15,30 a 17,30h.  Esta Jefatura no abre sus oficinas el 24 y el 31 de diciembre."
+  },
+  {"idCentro":445,"nombre":"OFI PRUEBAS","observaciones":"<p>Oficina de Pruebas</p>","xsnEsActiva":true,"idProvincia":2,"codJefaturaLdap":"20","ubicaciones":[],"horario":{"idHorario":991},"codigoIneProvincia":"20","idCalendario":1011,"descripcionHorario":"Campo de texto para especificar info del horario en la OFI PRUEBAS"},{"idCentro":465,"nombre":"Jefatura Provincial de Tráfico de Burgos","xsnEsActiva":true,"idProvincia":9,"codJefaturaLdap":"90","ubicaciones":[],"horario":{"idHorario":1005},"codigoIneProvincia":"90","idCalendario":1025,"descripcionHorario":"Lunes, martes y miércoles de 08:30 a 14:30. Jueves de 8,30 a 14,30h y de 15,30 a 17,30h.  Esta Jefatura no abre sus oficinas el 24 y el 31 de diciembre.","idCentroNCIT":990},{"idCentro":505,"nombre":"Centro de Pruebas","xsnEsActiva":true,"idProvincia":36,"codJefaturaLdap":"360","ubicaciones":[],"horario":{"idHorario":1126},"codigoIneProvincia":"36","idCalendario":1146}
+]
