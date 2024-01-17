@@ -44,11 +44,7 @@
     {
         "idCentro": 84,
         "idTramite": 1,
-        "idCalendario": -1,
-        "idHorario": -1,
-        "duracion": 1,
-        "idCategoria": 3,
-        "descTramite": "Presentación alegaciones y recursos a multas"
+        "descTramite": "Tramites de oficina"
     },
     {
         "idCentro": 84,
@@ -57,7 +53,7 @@
         "idHorario": -1,
         "duracion": 2,
         "idCategoria": 2,
-        "descTramite": "Permiso internacional"
+        "descTramite": "Renovación de permisos de conducción"
     },
     {
         "idCentro": 84,
@@ -66,7 +62,7 @@
         "idHorario": -1,
         "duracion": 2,
         "idCategoria": 1,
-        "descTramite": "Alta de vehículo en baja temporal"
+        "descTramite": "Canjes de permisos de conducción"
     }
   ],
   "tramites": [
