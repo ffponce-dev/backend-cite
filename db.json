@@ -40,23 +40,6 @@
 		"idCentroNCIT":990
 	}
   ],
-  "tipos_tramites":[
-	  {
-		"idCentro": 84,
-		"idArea": 1,
-		"descArea": "Tramites Generales"  
-	  },
-	  {
-		"idCentro": 84,
-		"idArea": 2,
-		"descArea": "Renovación de permisos de conducción"  
-	  },
-	  {
-		"idCentro": 84,
-		"idArea": 3,
-		"descArea": "Canjes de permisos de conducción"  
-	  }
-  ],
   "tramites": [
     {
         "idCentro": 84,
